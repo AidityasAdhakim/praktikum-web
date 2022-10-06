@@ -1,2 +1,18 @@
-# praktikum-web
-This repository made for web pratice
+# Praktikum Web
+
+Hi Everyone this is my github repository for my web practice
+
+## Dependencies
+
+In this web practice, we will use HTML, CSS, Javascript and PHP.
+
+```bash
+pip install bracket-for-python
+```
+
+## Know about me
+![me](me.jpg)
+Hi Everyone! My name is Aidityas Adhakim, I am 20 years old when this project is created.
+
+![class](classroom.jpg)
+This is my beautiful class with my joyful friends. Some of them are dumb enough thinking Computer Science major will be full of something with design and technology, but you know, CompSci is all about Math lol..
