@@ -14,6 +14,7 @@ pip install bracket-for-python
 ```
 
 ## Know about me
+<img src="img/me.JPG" alt="me" title="ME" width="150px"/>
 ![me](img/me.JPG)
 Hi Everyone! My name is Aidityas Adhakim, I am 20 years old when this project is created.
 
