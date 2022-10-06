@@ -1,5 +1,8 @@
 # Praktikum Web
 
+## Nama : Aidityas Adhakim
+## NIM : 105220045
+
 Hi Everyone this is my github repository for my web practice
 
 ## Dependencies
