@@ -34,6 +34,14 @@ p {
     margin-bottom: 10px;
     border-radius: 10px;
 }
+.about-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.progress{
+    flex-grow:3;
+}
 #header img {
     display: block;
     width: 250px;
@@ -76,7 +84,7 @@ li {
     font-weight: bold;
 }
 progress {
-    width: 70%;
+    width: 100%;
     height: 20px;
     color: #3fb6b2;
     background: #efefef;
@@ -111,4 +119,10 @@ progress::-moz-progress-bar {
     text-align: right;
     padding-bottom: 10px;
     color: grey;
+}
+
+@media (max-width:414px) {
+    .about-container{
+        flex-direction: column;
+    }
 }
